@@ -1,1 +1,1 @@
-# Newthon-Raphson
+# Newton-Raphson
